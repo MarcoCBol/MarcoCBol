@@ -11,7 +11,7 @@
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image: url('imagenes/28701st.jpg');
+  background-image: url('imagenes/maxresdefault (7).jpg');
   min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -22,12 +22,12 @@ body, html {height: 100%}
 
 <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
   <div class="w3-display-topleft w3-padding-large w3-xlarge">
-    2024
+    Club fans Fiorentina
   </div>
   <div class="w3-display-middle">
-    <h1 class="w3-jumbo w3-animate-top">Cristiano Ronaldo s eune a la fiore</h1>
+    <h1 class="w3-jumbo w3-animate-top">Cristiano anuncia su llegada a la fiorentina</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
-    <p class="w3-large w3-center">El sueño de muchos</p>
+    <p class="w3-large w3-center">Desde hace mucho se sabe que este es el equipo con el que sueña Cristiano Ronaldo, y todos nos alegramos de que alguien tan importante consiga lograr su sueño</p>
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
     Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
